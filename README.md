@@ -53,9 +53,9 @@ Then run:
 python pytracking/run_tracker.py --dataset_name rgbt234
 ```
 ## Tracking results
-Download the tracking results from [Baidu Netdisk](https://pan.baidu.com/s/1n31MZ32ZNzSuYhaRsd-X5Q?pwd=pm6p) code: pm6p
+Download the tracking results from [Baidu Netdisk](https://pan.baidu.com/s/1tFSIWp0Nqx9z0tUbdZl2Fg?pwd=87xu) code: 87xu
 
-Download the model weights from [Baidu Netdisk](https://pan.baidu.com/s/1koibm_DHj194yHpihfyf8Q?pwd=143t) code: 143t
+Download the model weights from [Baidu Netdisk](https://pan.baidu.com/s/1YBFTIM_T4V-_rxL3wRe7HA?pwd=5m57) code: 5m57
 
 ## Acknowledgments
 Thanks for the [PyTracking](https://github.com/visionml/pytracking) and [OSTrack](https://github.com/botaoye/OSTrack) library, which helps us to quickly implement our ideas.
